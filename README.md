@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Curso De Engenharia da Computação</h2>
+
+<h2> Seja bem vindo ao meu perfil!</h2>
